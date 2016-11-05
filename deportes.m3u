@@ -272,9 +272,3 @@ http://61.216.71.67/sta/ch02.m3u8
 #EXTINF:-1,SPORT
 http://46.105.161.243:8085/lighd
 
-#EXTINF:-1,SUPERSPORTS
-http://46.105.161.243:8085/lighd
-#EXTINF:-1,CBCSPORT
-http://149.255.152.110/cbcsport/index.m3u8
-#EXTINF:-1, SPORTS TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
